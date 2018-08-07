@@ -1,0 +1,19 @@
+{
+  "name": "LocoFramework",
+  "version": "1.0.0",
+  "summary": "This is such a Loco Framework. Yah Mon!",
+  "description": "This is some loco framework that was made by a crazy guy.",
+  "homepage": "https://github.com/Eliaz123/LocoFramework.git",
+  "license": "MIT",
+  "authors": {
+    "Eli": "eli.oteg@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Eliaz123/LocoFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LocoFramework/**/*"
+}

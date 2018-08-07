@@ -1,0 +1,16 @@
+PODS:
+  - LocoFramework (1.0.0)
+
+DEPENDENCIES:
+  - LocoFramework (from `../LocoFramework/`)
+
+EXTERNAL SOURCES:
+  LocoFramework:
+    :path: "../LocoFramework/"
+
+SPEC CHECKSUMS:
+  LocoFramework: 43fd8d90b2194cd60793ec3c2781e1a582a00c1f
+
+PODFILE CHECKSUM: db89fba3e498ca53865fdebee089f06664bd0a01
+
+COCOAPODS: 1.5.3
